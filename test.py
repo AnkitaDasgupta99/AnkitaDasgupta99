@@ -1,1 +1,1 @@
-printf("Whats'up,ankita!v1 ")
+print("Whats'up,ankita!v1 ")
